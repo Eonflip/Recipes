@@ -1,1 +1,1 @@
-This is a project I am working on through The Odin Project, a fun and helpful website that will hopefully help me on my way to becoming a fullstack developer
+This is an HTML practice and growth project to display recipes I have made! 
